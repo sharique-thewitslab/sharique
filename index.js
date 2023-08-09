@@ -20,5 +20,3 @@
 //     sort()
 // }
 // console.log(arr4)
-
-
