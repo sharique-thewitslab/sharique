@@ -23,4 +23,4 @@
 
 var a=[1,2,3]
 var [a,b,c]=a
-console.log(b)
+console.log(c)
